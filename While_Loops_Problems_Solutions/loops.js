@@ -6,7 +6,7 @@ while(counter < 20){
 	counter++;
 }
 
-// other way of solving the problem
+// other way to solve the problem
 var counter = -10;
 
 while(counter <= 19){
@@ -22,7 +22,7 @@ while(counter <= 40){
 	counter+=2;
 }
 
-// other way of solving the problem
+// other way to solve the problem
 // while(counter <= 40){
 // 	if(counter % 2 === 0){
 // 		console.log(counter);
