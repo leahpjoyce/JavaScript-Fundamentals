@@ -6,6 +6,14 @@ while(counter < 20){
 	counter++;
 }
 
+// other way of solving the problem
+var counter = -10;
+
+while(counter <= 19){
+	console.log(counter);
+	counter++;
+}
+
 console.log("PRINTING ALL EVEN BETWEEN 10 AND 40");
 var counter = 10;
 
@@ -14,6 +22,7 @@ while(counter <= 40){
 	counter+=2;
 }
 
+// other way of solving the problem
 // while(counter <= 40){
 // 	if(counter % 2 === 0){
 // 		console.log(counter);
@@ -30,7 +39,6 @@ while(counter <= 333){
 	}
 	counter+=1;
 }
-
 
 
 
