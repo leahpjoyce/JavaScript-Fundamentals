@@ -2,7 +2,7 @@
 
 * Basics of the language.
 * Practice the fundamentals of JS.
-* Compilation of different projects and exercises sample.
+* Compilation of different projects and exercises.
 
 ## Credits and Resources
 
